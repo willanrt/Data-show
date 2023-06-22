@@ -1,0 +1,10 @@
+/* style.css */
+table {
+  margin: auto; /* 居中显示 */
+  border-collapse: collapse; /* 合并边框 */
+}
+
+td, th {
+  padding: 10px; /* 设置间距 */
+  border: 1px solid black; /* 设置边框 */
+}
